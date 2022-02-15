@@ -16,8 +16,8 @@ The Whole Project is developed using only ** Java **. Java has a large community
 ## What are future Options can be incorporate with its new commits??
 In upcoming future this bill generation system can perform bar code scan which is in our idea bucket.
 
-## What are dificulties found my developer working in this project??
-I find dificulty in JFrame as it was a new concept for me and reading docs from internet I can able to slove problems. Thanks to Java Community.
+## What are difficulties found my developer working in this project??
+I find difficulty in JFrame as it was a new concept for me and reading docs from internet I can able to slove problems. Thanks to Java Community.
 
 # Screenshots
 

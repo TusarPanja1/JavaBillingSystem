@@ -218,6 +218,11 @@ public class home extends javax.swing.JFrame {
         jToggleButton1.setForeground(new java.awt.Color(255, 255, 255));
         jToggleButton1.setText("LOG OUT");
         jToggleButton1.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
+        jToggleButton1.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jToggleButton1MouseClicked(evt);
+            }
+        });
         jPanel1.add(jToggleButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(710, 650, 160, 40));
 
         jToggleButton2.setBackground(new java.awt.Color(66, 76, 138));
@@ -289,8 +294,15 @@ public class home extends javax.swing.JFrame {
 
     private void jToggleButton2MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jToggleButton2MouseClicked
         // TODO add your handling code here:
+        setVisible(false);
         new Billing().setVisible(true);
     }//GEN-LAST:event_jToggleButton2MouseClicked
+
+    private void jToggleButton1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jToggleButton1MouseClicked
+        // TODO add your handling code here:
+        setVisible(false);
+        new Login().setVisible(true);
+    }//GEN-LAST:event_jToggleButton1MouseClicked
 
     /**
      * @param args the command line arguments

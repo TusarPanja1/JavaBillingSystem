@@ -21,3 +21,38 @@ I find difficulty in JFrame as it was a new concept for me and reading docs from
 
 # Screenshots
 
+![Screenshot (213)](https://user-images.githubusercontent.com/96052293/154129260-d466649f-5d29-40a1-81e6-f16b657e60e5.png)
+**User Name = Admin , Password= admin.  [Admin.java](https://github.com/TusarPanja1/JavaBillingSystem/blob/ccc254719899d6aa1e38b3922802a99bda393d75/src/JFrames/Login.java) **
+
+![Screenshot (214)](https://user-images.githubusercontent.com/96052293/154129461-65e9e77a-9e3c-4437-a0b9-49d3207c6010.png)
+[Home.java](https://github.com/TusarPanja1/JavaBillingSystem/blob/ccc254719899d6aa1e38b3922802a99bda393d75/src/JFrames/home.java)
+
+![image](https://user-images.githubusercontent.com/96052293/154130203-832051dd-a8a5-4adb-b5f3-45f8a7188aa7.png)
+[AddCustomer.java](https://github.com/TusarPanja1/JavaBillingSystem/blob/ccc254719899d6aa1e38b3922802a99bda393d75/src/JFrames/CustomerJFrame/AddCustomer.java)
+
+![image](https://user-images.githubusercontent.com/96052293/154130618-092ca56c-a0ef-4308-aaac-3403b7294cc5.png)
+[UpdateCustomer.jav](https://github.com/TusarPanja1/JavaBillingSystem/blob/ccc254719899d6aa1e38b3922802a99bda393d75/src/JFrames/CustomerJFrame/UpdateCustomer.java)
+
+![image](https://user-images.githubusercontent.com/96052293/154130762-bf74c8c0-7569-49f5-9c65-a767270851f0.png)
+[CustomersDetails.java](https://github.com/TusarPanja1/JavaBillingSystem/blob/ccc254719899d6aa1e38b3922802a99bda393d75/src/JFrames/CustomerJFrame/CustomerDetails.java)
+
+![image](https://user-images.githubusercontent.com/96052293/154130950-702702c8-ec64-4d94-aa7b-967398f9f278.png)
+[DeleteCustomer.java](https://github.com/TusarPanja1/JavaBillingSystem/blob/ccc254719899d6aa1e38b3922802a99bda393d75/src/JFrames/CustomerJFrame/DeleteCustomer.java)
+
+![image](https://user-images.githubusercontent.com/96052293/154131125-933fe6ea-68c5-433c-960e-9d8029060139.png)
+[AddProduct.java](https://github.com/TusarPanja1/JavaBillingSystem/blob/ccc254719899d6aa1e38b3922802a99bda393d75/src/JFrames/ProductJF/AddProduct.java)
+
+![image](https://user-images.githubusercontent.com/96052293/154131300-005b4868-3c71-4e40-b5ab-279d08031011.png)
+[UpdateProduct.java](https://github.com/TusarPanja1/JavaBillingSystem/blob/ccc254719899d6aa1e38b3922802a99bda393d75/src/JFrames/ProductJF/UpdateProduct.java)
+
+![image](https://user-images.githubusercontent.com/96052293/154131456-87d25a54-f021-4e20-90f9-35be41748a24.png)
+[ProductDetails.java](https://github.com/TusarPanja1/JavaBillingSystem/blob/ccc254719899d6aa1e38b3922802a99bda393d75/src/JFrames/ProductJF/ProductDetails.java)
+
+![image](https://user-images.githubusercontent.com/96052293/154131567-b65e59c7-d91b-4b00-ad69-78b6fd342246.png)
+[DeleteProduct.java](https://github.com/TusarPanja1/JavaBillingSystem/blob/ccc254719899d6aa1e38b3922802a99bda393d75/src/JFrames/ProductJF/DeleteProduct.java)
+
+![image](https://user-images.githubusercontent.com/96052293/154131753-85e0a732-4ef1-4cca-ab9a-a0160abcb510.png)
+[Billing.java](https://github.com/TusarPanja1/JavaBillingSystem/blob/ccc254719899d6aa1e38b3922802a99bda393d75/src/JFrames/Billing.java)
+
+### After Bill Generation generated pdf file @ [Bills Folder]
+[Tusar Panja_15-02-2022 23-19-44.pdf](https://github.com/TusarPanja1/JavaBillingSystem/files/8073938/Tusar.Panja_15-02-2022.23-19-44.pdf)
